@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AveridgeJoe1/AveridgeJoe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=AveridgeJoe1&style=flat-square&color=58a6ff)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# // Joe
+
+> Personal Profile where I work on random things I find interesting
+
+## 🌟 About Me
+
+- 🌱 **Learning:** All I can
+- ⚡ **Fun fact:** I have 3 black cats
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AveridgeJoe1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
