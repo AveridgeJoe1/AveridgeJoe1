@@ -4,7 +4,7 @@
 
 </div>
 
-# // Joe
+# Joe
 
 > Personal Profile where I work on random things I find interesting
 
